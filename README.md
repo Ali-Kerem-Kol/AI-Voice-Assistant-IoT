@@ -32,8 +32,8 @@ Bu proje, ESP32 mikrodenetleyicisi kullanılarak geliştirilen IoT tabanlı bir 
 
 ## Nasıl Çalıştırılır ?
 1) XAMPP Kurulumu ve Ayarları
-   1) XAMPP’i indirin ve kurun.
-   2) XAMPP Control Panel’i açın.
+   - 1) XAMPP’i indirin ve kurun.
+   - 2) XAMPP Control Panel’i açın.
    3) Apache sunucusunu başlatın (MySQL gerekli değil; 80,443).
    4) htdocs klasörünü açın (genellikle C:\xampp\htdocs).
    5) Bu repodaki php-server klasörünün içeriğini htdocs içine kopyalayın
