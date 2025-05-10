@@ -3,10 +3,7 @@
 Bu proje, ESP32 mikrodenetleyicisi kullanılarak geliştirilen IoT tabanlı bir sesli yapay zekâ asistanıdır. Cihaz, sesli komutları algılayıp doğal dil işleme ile cevaplar üretir ve sesli olarak yanıt verir.
 
 ## Proje Mimarisi
-[ESP32] → (Wi-Fi) → [XAMPP + PHP Server (localhost)] → [Azure + Gemini API]
-                                              
-                                              ↑
-                                    Cevapları işleyip .wav üretir
+![Proje Mimarisi](./images/Mimari.png)
 
 
 ## Özellikler
