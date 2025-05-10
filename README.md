@@ -4,6 +4,7 @@ Bu proje, ESP32 mikrodenetleyicisi kullanılarak geliştirilen IoT tabanlı bir 
 
 ## Proje Mimarisi
 [ESP32] → (Wi-Fi) → [XAMPP + PHP Server (localhost)] → [Azure + Gemini API]
+                                              
                                               ↑
                                     Cevapları işleyip .wav üretir
 
