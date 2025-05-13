@@ -4,8 +4,8 @@ Bu proje, ESP32 mikrodenetleyicisi kullanılarak geliştirilen IoT tabanlı bir 
 
 ## Cihaz
 <p align="center">
-  <img src="./images/Cihaz1.jpg" alt="Cihaz 1" width="300"/>
-  <img src="./images/Cihaz2.jpg" alt="Cihaz 2" width="300"/>
+  <img src="./images/Cihaz1.jpg" alt="Cihaz 1" width="400"/>
+  <img src="./images/Cihaz2.jpg" alt="Cihaz 2" width="400"/>
 </p>
 
 ## Proje Mimarisi
