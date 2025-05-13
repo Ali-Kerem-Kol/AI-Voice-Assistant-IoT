@@ -3,11 +3,13 @@
 Bu proje, ESP32 mikrodenetleyicisi kullanılarak geliştirilen IoT tabanlı bir sesli yapay zekâ asistanıdır. Cihaz, sesli komutları algılayıp doğal dil işleme ile cevaplar üretir ve sesli olarak yanıt verir.
 
 ## Cihaz
-![Cihaz1](./images/Cihaz1.jpg) ![Cihaz2](./images/Cihaz2.jpg)
+<p align="center">
+  <img src="./images/Cihaz1.jpg" alt="Cihaz 1" width="300"/>
+  <img src="./images/Cihaz2.jpg" alt="Cihaz 2" width="300"/>
+</p>
 
 ## Proje Mimarisi
 ![Proje Mimarisi](./images/Mimari.png)
-
 
 ## Özellikler
 
